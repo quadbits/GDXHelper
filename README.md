@@ -1,7 +1,11 @@
+# UNMAINTAINED
+
+GDXHelper is no longer maintained. For new developments consider using [Overlap2D][1].
+
 GDXHelper
 =========
 
-Java library based on [LibGDX][1] for helping in the development of small, simple games, such as Android Live Wallpapers.
+Java library based on [LibGDX][2] for helping in the development of small, simple games, such as Android Live Wallpapers.
 
 
 
@@ -30,4 +34,5 @@ License
     See the License for the specific language governing permissions and
     limitations under the License.
 
-[1]: https://github.com/libgdx/libgdx
+[1]: http://overlap2d.com/
+[2]: https://github.com/libgdx/libgdx
